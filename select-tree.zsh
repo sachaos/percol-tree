@@ -1,7 +1,6 @@
 #!/bin/zsh
 
 # treeで色々実行したいときとかあるかもね
-
 # 括弧とかスペースとか置き換えないと気持ちわるい。
 
 if exists percol; then
